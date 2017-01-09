@@ -1,7 +1,7 @@
 /**
  * NOTE: In order for this code to be able to make requests to ElasticSearch,
  * you need to enable cross-origin requests on ElasticSearch. To do that, you
- * need to edit <elasticsearch_dir>/config.elasticsearch.yml and append the
+ * need to edit <elasticsearch_dir>/config/elasticsearch.yml and append the
  * following lines:
  * http.cors.enabled : true
  * http.cors.allow-origin : "*"
